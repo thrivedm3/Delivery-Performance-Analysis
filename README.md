@@ -1,4 +1,4 @@
-# 🚚 Delivery Performance Analysis Dashboard
+# 🚚 Delivery Performance Analysis
 
 ## 📝 Short Description
 An interactive Power BI dashboard built on 43K+ Amazon deliveries that shows how traffic, weather, area and distance affect delivery time. It exists to help operations teams find what causes delays and which orders are most at risk.
